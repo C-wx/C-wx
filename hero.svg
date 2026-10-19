@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Cbuc — Code with purpose.</title>
+  <desc id="desc">A light editorial banner with a blue code illustration. Java, Spring and web applications. Build, learn, share.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1200" y2="380" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FAFD"/><stop offset="1" stop-color="#EFF5FF"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="862" y1="108" x2="1076" y2="314" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4C7EFF"/><stop offset="1" stop-color="#2455D6"/>
+    </linearGradient>
+    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#B8C9E8"/>
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="1198" height="378" rx="24" fill="url(#paper)" stroke="#E1E8F2" stroke-width="2"/>
+  <rect x="768" y="48" width="370" height="286" fill="url(#dots)" opacity=".55"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <rect x="54" y="45" width="30" height="30" rx="9" fill="#285DE5"/>
+    <path d="m65 55-5 5 5 5m8-10 5 5-5 5" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="97" y="66" font-size="15" font-weight="700" letter-spacing="2" fill="#243247">CBUC / OPEN SOURCE</text>
+    <text x="1144" y="65" text-anchor="end" font-size="12" font-weight="600" letter-spacing="2" fill="#64748B">BUILD. LEARN. SHARE.</text>
+    <text x="54" y="139" font-size="23" fill="#54647C">Hi, I'm Cbuc.</text>
+    <text x="50" y="213" font-size="68" font-weight="750" letter-spacing="-3" fill="#172B49">Code with purpose.</text>
+    <text x="54" y="259" font-size="21" fill="#54647C">Turning ideas into useful software.</text>
+    <rect x="54" y="302" width="4" height="18" rx="2" fill="#3266E8"/>
+    <text x="72" y="317" font-size="14" font-weight="600" letter-spacing="1.5" fill="#42618B">JAVA / SPRING / WEB APPLICATIONS</text>
+    <rect x="833" y="109" width="244" height="204" rx="25" fill="#DCE6FA" transform="rotate(8 955 211)"/>
+    <rect x="842" y="106" width="244" height="204" rx="25" fill="#FFFFFF" stroke="#C8D7EF" transform="rotate(-6 964 208)"/>
+    <rect x="848" y="102" width="244" height="204" rx="25" fill="url(#blue)"/>
+    <circle cx="873" cy="126" r="3.5" fill="#C4D6FF"/>
+    <circle cx="885" cy="126" r="3.5" fill="#C4D6FF" opacity=".7"/>
+    <circle cx="897" cy="126" r="3.5" fill="#C4D6FF" opacity=".4"/>
+    <path d="m922 169-32 28 32 28m94-56 32 28-32 28m-30-67-25 80" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M874 268h60m12 0h29" stroke="#A9C4FF" stroke-width="5" stroke-linecap="round"/>
+    <rect x="1019" y="283" width="99" height="36" rx="18" fill="#FFFFFF" stroke="#D9E3F2"/>
+    <circle cx="1036" cy="301" r="4" fill="#1B9E73"/>
+    <text x="1047" y="306" font-size="12" font-weight="600" fill="#334D72">&lt;/&gt; C-wx</text>
+  </g>
+</svg>
